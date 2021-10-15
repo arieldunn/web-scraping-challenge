@@ -22,3 +22,9 @@ Mars Weather twitter account: latest Mars weather tweet
 Mars Facts webpage: facts table about the Mars including Diameter, Mass, etc.
 USGS Astrogeology site: high resolution images for each of Mar's hemispheres
 This data was then stored in a MongoDB collection. This collection is accessed in a Flask app and HTML template (using Jinja) to create the resulting webpage:
+![Image 10-14-21 at 9 39 PM](https://user-images.githubusercontent.com/82057838/137418594-3d2282d3-de3c-44f2-bd10-c4a4186c1073.jpg)
+<img width="777" alt="final_app_part1" src="https://user-images.githubusercontent.com/82057838/137418692-9f0f4877-9774-47db-9361-d101c15cd845.png">
+<img width="631" alt="final_app_part2" src="https://user-images.githubusercontent.com/82057838/137418697-00c7ff54-2df7-44f5-863f-b7c4d6b3f682.png">
+![mission_to_mars](https://user-images.githubusercontent.com/82057838/137418696-9e436049-2fe1-46e1-a386-00353ef97daf.png)
+<img width="631" alt="final_app_part2" src="https://user-images.githubusercontent.com/82057838/137418695-05cf4ca0-615f-4f0a-927b-3c0230c706a1.png">
+![mission_to_mars](https://user-images.githubusercontent.com/82057838/137418707-ea7291dc-6964-4ffa-bafd-f3fa4d71fa5a.png)
